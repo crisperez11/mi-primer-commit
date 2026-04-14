@@ -8,14 +8,14 @@ body {
 }
 
 header {
-    background: #ff0000;
-    color: #eeff00;
+    background: #0b0a44;
+    color: #ffffff;
     padding: 1rem;
     text-align: center;
 }
 
 section {
-    background: #ddbbbb;
+    background: #c3fff2;
     margin: 20px 0;
     padding: 20px;
     border-radius: 8px;
